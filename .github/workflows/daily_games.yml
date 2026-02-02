@@ -2,7 +2,7 @@ name: Daily Game Generator
 
 on:
   schedule:
-    - cron: '00 9 * * *'
+    - cron: '15 9 * * *' # 2:45 PM IST
   workflow_dispatch:
 
 permissions:
@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run Game Generation
-        run: npx tsx index.ts
+        run: npx tsx index.ts --run-now
         env:
           MONGO_URI: ${{ secrets.MONGO_URI }}
 
