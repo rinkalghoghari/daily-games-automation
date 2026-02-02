@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< Updated upstream
     "id": "43714",
     "title": "Zombie Ricochet Women Hunter",
     "description": "Zombie Ricochet Women Hunter is an action-packed game where the player takes on the role of a skilled hunter, tasked with eliminating hordes of zombies. The aim of the game is simple: eliminate as many zombies as possible while staying alive. The game features custom behavior for the player's hand movements for aiming in all directions, with touching the screen triggering the player to shoot bullets at the targets. The zombies are ruthless and relentless, and the player must stay alert and react quickly to avoid being overwhelmed. One unique feature of the game is the use of physics rag-doll behavior for the enemy zombies. This means that when the player shoots a zombie, their body parts will react realistically and detach from the main body, creating an immersive and satisfying gameplay experience. As the player progresses through the levels, the zombie hordes become increasingly challenging to defeat, with new types of zombies with different abilities and strengths appearing. However, the player can collect power-ups and upgrades to their weapons to aid them in their mission. Overall, Zombie Ricochet Women Hunter is a thrilling and action-packed game that is sure to keep players on the edge of their seats. With its unique game play mechanics and immersive physics-based action, it's a game that is hard to put down.",
@@ -26,3 +27,599 @@
     ]
   }
 ]
+=======
+  "id": "74535",
+  "title": "Dungeon Fighter 3D",
+  "description": "Thrilling Gameloft ARPG Sequel! Unite, fearless Bounty Hunters, and embrace Dungeon Hunter fighter 3D - a unique and enthralling hack-and-slash odyssey that continues the cherished Dungeon Hunter saga. As a seasoned dungeon crawler, enter uncharted dungeon territories, reunite with iconic Dungeon Hunter characters, and experience a new level of excitement in this extraordinary action-packed MMORPG installment! Return to Valenthias dungeons 200 years after the brave sacrifice of the Dungeon Hunter and experience brand new thrilling Dungeon quests, in a scale never seen before in a Dungeon Hunter game.",
+  "instructions": "use mouse WASD Arrow keys for movement z punch x kick c defend Space Jump ESC pause menu TAB Objective LMB hit",
+  "url": "https://html5.gamemonetize.com/91v6to68exgcl8f6lecc9znohnfjp0d1/",
+  "categoryId": "arcade",
+  "tags": "2025 games, 3D, 3D Games, Action, Adventure, Dungeon, Fight, Monster, RPG, Superhero, Sword",
+  "thumb": "https://img.gamemonetize.com/91v6to68exgcl8f6lecc9znohnfjp0d1/512x384.jpg",
+  "width": "800",
+  "height": "600",
+  "gameControls": [
+    {
+      "key": "W",
+      "action": "Move forward"
+    },
+    {
+      "key": "A",
+      "action": "Move left"
+    },
+    {
+      "key": "S",
+      "action": "Move backward"
+    },
+    {
+      "key": "D",
+      "action": "Move right"
+    },
+    {
+      "key": "Arrow Keys",
+      "action": "Move character"
+    },
+    {
+      "key": "Mouse Left Click",
+      "action": "Attack enemies"
+    },
+    {
+      "key": "Z",
+      "action": "Punch attack"
+    },
+    {
+      "key": "X",
+      "action": "Kick attack"
+    },
+    {
+      "key": "C",
+      "action": "Defend or block"
+    },
+    {
+      "key": "Space",
+      "action": "Jump"
+    },
+    {
+      "key": "Tab",
+      "action": "Show current objective"
+    },
+    {
+      "key": "Esc",
+      "action": "Pause game or open menu"
+    }
+  ]
+},
+{
+  "id": "7068",
+  "title": "Flying Doremon",
+  "description": "flying doremon is an amazing game made by azeemdreamsdesigner",
+  "instructions": "click or touch",
+  "url": "https://html5.gamemonetize.com/6cytvueqe7g7ucrq5cc0god9hkpayqa4/",
+  "categoryId": "adventure",
+  "tags": "Action, Android, fly, Highscore, jump, Mobile",
+  "thumb": "https://img.gamemonetize.com/6cytvueqe7g7ucrq5cc0god9hkpayqa4/512x384.jpg",
+  "width": "640",
+  "height": "960",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Fly upward and avoid obstacles"
+    },
+    {
+      "key": "Hold Mouse",
+      "action": "Control flight height"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Fly upward and avoid obstacles"
+    },
+    {
+      "key": "Hold Tap",
+      "action": "Control flight height"
+    }
+  ]
+},
+{
+  "id": "41831",
+  "title": "Blade City Racing",
+  "description": "Welcome to the Blade City Racing game. be the last and be the first to achieve victory collect points you own the best car of the day! Are you ready to be the winner of blade city racing?",
+  "instructions": "Play with keyboard s Arrow Key Press left arrow key for left turn and right arrow for right turn ",
+  "url": "https://html5.gamemonetize.com/si8wi18feky7p12hgpkd2ev5wj1pninw/",
+  "categoryId": "racing",
+  "tags": "1 Player, 2D, 3D, Android, Boys, Car, Cars, city, Game, HTML, HTML5, Multiplayer, Race, Racing, Skills, Stunts, Supercars",
+  "thumb": "https://img.gamemonetize.com/si8wi18feky7p12hgpkd2ev5wj1pninw/512x384.jpg",
+  "width": "854",
+  "height": "480",
+  "gameControls": [
+    {
+      "key": "Arrow Left",
+      "action": "Turn the car left"
+    },
+    {
+      "key": "Arrow Right",
+      "action": "Turn the car right"
+    }
+  ]
+},
+{
+  "id": "41828",
+  "title": "Kids match memories game",
+  "description": "This is a memory game with Kids. Tap on the Object to Drag And Drop To The Right Place with the same hatch . This game has few levels and how you progress in the game will be Option. You will play with 4 Different levels.",
+  "instructions": "Use mouse to play this game ",
+  "url": "https://html5.gamemonetize.com/6irjmd8bustodt6o6gtwqil3zhb8tafw/",
+  "categoryId": "puzzles",
+  "tags": "Cars, HTML5, Match3, Matching, Memory, Puzzle",
+  "thumb": "https://img.gamemonetize.com/6irjmd8bustodt6o6gtwqil3zhb8tafw/512x384.jpg",
+  "width": "854",
+  "height": "480",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Select an object"
+    },
+    {
+      "key": "Drag Mouse",
+      "action": "Match and place objects correctly"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Select an object"
+    },
+    {
+      "key": "Drag Finger",
+      "action": "Match and place objects correctly"
+    }
+  ]
+},
+{
+  "id": "16163",
+  "title": "FLYING BIRD",
+  "description": "HTML5 GAME",
+  "instructions": "Touch and mouse ",
+  "url": "https://html5.gamemonetize.com/jd1gcrc7fd10xksbv02uf5c4qwmdi401/",
+  "categoryId": "action",
+  "tags": "2 Player Games, 2D",
+  "thumb": "https://img.gamemonetize.com/jd1gcrc7fd10xksbv02uf5c4qwmdi401/512x384.jpg",
+  "width": "1920",
+  "height": "1080",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Fly upward"
+    },
+    {
+      "key": "Hold Mouse",
+      "action": "Control flight height"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Fly upward"
+    },
+    {
+      "key": "Hold Tap",
+      "action": "Control flight height"
+    }
+  ]
+},
+{
+  "id": "43714",
+  "title": "Zombie Ricochet Women Hunter",
+  "description": "Zombie Ricochet Women Hunter is an action-packed game where the player takes on the role of a skilled hunter, tasked with eliminating hordes of zombies. The aim of the game is simple: eliminate as many zombies as possible while staying alive. The game features custom behavior for the player's hand movements for aiming in all directions, with touching the screen triggering the player to shoot bullets at the targets. The zombies are ruthless and relentless, and the player must stay alert and react quickly to avoid being overwhelmed. One unique feature of the game is the use of physics rag-doll behavior for the enemy zombies. This means that when the player shoots a zombie, their body parts will react realistically and detach from the main body, creating an immersive and satisfying gameplay experience. As the player progresses through the levels, the zombie hordes become increasingly challenging to defeat, with new types of zombies with different abilities and strengths appearing. However, the player can collect power-ups and upgrades to their weapons to aid them in their mission. Overall, Zombie Ricochet Women Hunter is a thrilling and action-packed game that is sure to keep players on the edge of their seats. With its unique game play mechanics and immersive physics-based action, it's a game that is hard to put down.",
+  "instructions": "Left Mouse Button Click",
+  "url": "https://html5.gamemonetize.com/m99iynuy9fabol40ujttrowxc6rfr1sy/",
+  "categoryId": "puzzles",
+  "tags": "Android, Blood, Boys, Game, Girl, Gun, HTML5, Kids, Mobile, Puzzle",
+  "thumb": "https://img.gamemonetize.com/m99iynuy9fabol40ujttrowxc6rfr1sy/512x384.jpg",
+  "width": "854",
+  "height": "480",
+  "gameControls": [
+    {
+      "key": "Mouse Move",
+      "action": "Aim at zombies"
+    },
+    {
+      "key": "Mouse Left Click",
+      "action": "Shoot bullets"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Shoot bullets"
+    }
+  ]
+},
+{
+  "id": "4697",
+  "title": "Harry potter golden snitch",
+  "description": "Harry potter golden snitch is the cool & challenging game.",
+  "instructions": "touch or click",
+  "url": "https://html5.gamemonetize.com/7j0n2t439gxv98b4w8xpu1734spv1v59/",
+  "categoryId": "adventure",
+  "tags": "1 Player, 2D, fly",
+  "thumb": "https://img.gamemonetize.com/7j0n2t439gxv98b4w8xpu1734spv1v59/512x384.jpg",
+  "width": "1920",
+  "height": "1080",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Catch the golden snitch"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Catch the golden snitch"
+    }
+  ]
+},
+{
+  "id": "41832",
+  "title": "Dino Puzzle Adventure",
+  "description": "We will present the game Dino Puzzle Adventure .it is a wonderful adventure game in the jungle with a super little Dino as a strong Kid. It combines the classic game play and new skills from adventure games, with awesome levels that we have created for you! This game is easy to control, but also very addicting which will take you through different levels of running and jumping in this dangerous jungle. So you will join in exciting world adventures to reach home.",
+  "instructions": "Use Arrow Keys W S A D",
+  "url": "https://html5.gamemonetize.com/ntp42cn88yzb9ac152n71bw73u5qbk6t/",
+  "categoryId": "puzzles",
+  "tags": "Action, Adventure, Android, Dinosaur, HTML5, Physics, Platform",
+  "thumb": "https://img.gamemonetize.com/ntp42cn88yzb9ac152n71bw73u5qbk6t/512x384.jpg",
+  "width": "854",
+  "height": "480",
+  "gameControls": [
+    {
+      "key": "Arrow Keys",
+      "action": "Move the dinosaur"
+    },
+    {
+      "key": "W",
+      "action": "Move forward or jump"
+    },
+    {
+      "key": "A",
+      "action": "Move left"
+    },
+    {
+      "key": "S",
+      "action": "Move backward"
+    },
+    {
+      "key": "D",
+      "action": "Move right"
+    }
+  ]
+},
+{
+  "id": "44820",
+  "title": "Cube Runner Adventure",
+  "description": "Get ready for an adrenaline-pumping adventure in Cube Runner Adventure! Maneuver a cube character through an endless maze of obstacles using intuitive touch-based controls. The realistic 3D camera and physics behavior make the cubes movements feel dynamic as you swipe left or correct to change direction. Beware of four types of shapes: white boxes that protect you, red boxes that are enemies, and spiked boxes that are deadly hazards. Can you survive the challenging maze, collect coins, and achieve the highest score? Its time to put your skills to the test in this thrilling 3D mobile game!",
+  "instructions": "Tap on the screen to play this game ",
+  "url": "https://html5.gamemonetize.com/7ouroh1c90lb0mbnbawryk8mvy2702s1/",
+  "categoryId": "puzzles",
+  "tags": "1 Player, 3D, Adventure, Android, Avoid, HTML5, Hypercasual, Kids, Obstacle, Puzzle, run, running",
+  "thumb": "https://img.gamemonetize.com/7ouroh1c90lb0mbnbawryk8mvy2702s1/512x384.jpg",
+  "width": "480",
+  "height": "854",
+  "gameControls":[
+  { "key": "Tap Screen", "action": "Start running and change direction" },
+  { "key": "Swipe Left", "action": "Move left" },
+  { "key": "Swipe Right", "action": "Move right" }
+]
+
+},
+{
+  "id": "3846",
+  "title": "Gift tower Fall",
+  "description": "Christmas Gift Tower – HTML5 Mobile",
+  "instructions": "Click or Touch",
+  "url": "https://html5.gamemonetize.com/9qb6kbukvb4gxl1k83a1tb2a6qzvp9ry/",
+  "categoryId": "hypercasual",
+  "tags": "Christmas, Clicker, Hypercasual",
+  "thumb": "https://img.gamemonetize.com/9qb6kbukvb4gxl1k83a1tb2a6qzvp9ry/512x384.jpg",
+  "width": "480",
+  "height": "854",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Drop gifts at the right moment"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Drop gifts at the right moment"
+    }
+  ]
+},
+{
+  "id": "7065",
+  "title": "Pumpkin tower halloween",
+  "description": "Pumpkin tower is a great game made by azeemdreamsdesigner development team. reskin service available. feel free to contact us if you need exclusive games.",
+  "instructions": "click or touch",
+  "url": "https://html5.gamemonetize.com/u81iqi5gobg75def666rdel15lvmnami/",
+  "categoryId": "hypercasual",
+  "tags": "1 Player, Action, Android, Best, Cool, Fun, Funny, Mobile",
+  "thumb": "https://img.gamemonetize.com/u81iqi5gobg75def666rdel15lvmnami/512x384.jpg",
+  "width": "480",
+  "height": "854",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Stack pumpkins carefully"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Stack pumpkins carefully"
+    }
+  ]
+},
+{
+  "id": "17985",
+  "title": "2048 Physics",
+  "description": "2048 matching game with physical interaction. More fun to play and interesting puzzle.",
+  "instructions": "touch",
+  "url": "https://html5.gamemonetize.com/iv5ixs5j9zh6309zttx2quc1jmm2d6gw/",
+  "categoryId": "puzzles",
+  "tags": "Matching, Math, Mobile",
+  "thumb": "https://img.gamemonetize.com/iv5ixs5j9zh6309zttx2quc1jmm2d6gw/512x384.jpg",
+  "width": "480",
+  "height": "854",
+  "gameControls": [
+    {
+      "key": "Swipe Up",
+      "action": "Move tiles upward"
+    },
+    {
+      "key": "Swipe Down",
+      "action": "Move tiles downward"
+    },
+    {
+      "key": "Swipe Left",
+      "action": "Move tiles to the left"
+    },
+    {
+      "key": "Swipe Right",
+      "action": "Move tiles to the right"
+    },
+    {
+      "key": "Mouse Drag",
+      "action": "Move tiles in a direction"
+    }
+  ]
+},
+{
+    "id": "75382",
+    "title": "Mahjong Puzzle Game",
+    "description": "Mahjong Puzzle Game is a classic and relaxing tile-matching puzzle game designed for players who enjoy calm, thoughtful, and strategic gameplay. This traditional mahjong-style experience challenges players to match identical tiles and clear the board while planning each move carefully. The game combines timeless puzzle mechanics with a clean and modern mobile-friendly design.",
+    "instructions": "- To click any button use mouse ",
+    "url": "https://html5.gamemonetize.com/qdbiptd77iwsz69u5zqexeursu53ieqz/",
+    "categoryId": "puzzles",
+    "tags": "2026 games, Adventure, Casual, Hypercasual, Puzzle",
+    "thumb": "https://img.gamemonetize.com/qdbiptd77iwsz69u5zqexeursu53ieqz/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls":[
+  { "key": "Mouse Click", "action": "Select and match identical tiles" },
+  { "key": "Tap Screen", "action": "Select and match identical tiles" }
+]
+
+},
+{
+  "id": "10790",
+  "title": "HELIX ROTATE",
+  "description": "Helix Rotation is a fun hypercasual game. In this game, a bouncing ball goes through the helix tower but it is not that easy that it seems you should be very careful that ball will not touch the red part. Use Your Mouse Button to Rotate the Tower.",
+  "instructions": "Use Your Mouse Button to Rotate the Tower ",
+  "url": "https://html5.gamemonetize.com/ybp8skbttuxh599c05bx6fgikbjw4a12/",
+  "categoryId": "hypercasual",
+  "tags": "3D Games, Casual, endless, Unity3D",
+  "thumb": "https://img.gamemonetize.com/ybp8skbttuxh599c05bx6fgikbjw4a12/512x384.jpg",
+  "width": "400",
+  "height": "600",
+  "gameControls": [
+    {
+      "key": "Mouse Drag",
+      "action": "Rotate the tower to guide the ball"
+    },
+    {
+      "key": "Mouse Click",
+      "action": "Rotate the tower"
+    },
+    {
+      "key": "Swipe Finger",
+      "action": "Rotate the tower to guide the ball"
+    }
+  ]
+},
+{
+  "id": "16669",
+  "title": "BreakTheHoops!!",
+  "description": "It is one of the most fun games. Select your ball and start to break the ground with your ball. There is only one jump chance, so you have to be careful while jumping on the ground because if you jump a second time, you fell and lose the game. There are so many levels in the game. Play Break the hoops now!",
+  "instructions": "Use Mouse To Rotate the Hoop ",
+  "url": "https://html5.gamemonetize.com/q0jwu7ilkoqezgjf8owrxe9l1vgviey8/",
+  "categoryId": "hypercasual",
+  "tags": "1 Player, 3D, Action, Casual, Fun, Hypercasual, Jumping",
+  "thumb": "https://img.gamemonetize.com/q0jwu7ilkoqezgjf8owrxe9l1vgviey8/512x384.jpg",
+  "width": "800",
+  "height": "700",
+  "gameControls": [
+    {
+      "key": "Mouse Drag",
+      "action": "Rotate the hoop to guide the ball"
+    },
+    {
+      "key": "Swipe Finger",
+      "action": "Rotate the hoop to guide the ball"
+    }
+  ]
+},
+{
+  "id": "16753",
+  "title": "SMILING WATER GLASS",
+  "description": "The glass is sad because it's empty. Your job is to draw a line to make the glass filled up with liquid and smile again! This is one of the best strategy games with is designed with a lot of addiction for both kids and adults. This draw line puzzle game needs your full attention to solve physics puzzle by drawing lines to save glass and water.",
+  "instructions": "Use Mouse To Draw",
+  "url": "https://html5.gamemonetize.com/jv3268gbdcif6u7uz0rtggq2qieyffmz/",
+  "categoryId": "hypercasual",
+  "tags": ".io, 1 Player, 2D, Casual, Clicker, Fun, Hypercasual, Puzzle",
+  "thumb": "https://img.gamemonetize.com/jv3268gbdcif6u7uz0rtggq2qieyffmz/512x384.jpg",
+  "width": "800",
+  "height": "600",
+  "gameControls": [
+    {
+      "key": "Mouse Drag",
+      "action": "Draw lines to guide water into the glass"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Draw lines to guide water into the glass"
+    }
+  ]
+},
+{
+  "id": "16882",
+  "title": "GEL PEN RUSH 2021",
+  "description": "GEL PEN RUSH 2021 --s an interesting running, relaxing game. There are many obstacles we set on your road, it has a simple but stimulating experience of playing. follow the pencil line to get more stars. You need to collect an ink bottle to supplement your ink. How many levels you can pass? Challenge the endless mode in which quickly shake to create ink. Have a challenge!",
+  "instructions": "Move Left Right with Mouse Left Click",
+  "url": "https://html5.gamemonetize.com/hmemtav7ouwtqx6yp0iyv2tnnoi1f3qx/",
+  "categoryId": "hypercasual",
+  "tags": ".io, 3D, 3D Games, Adventure, Arena, Block, Boys, Girls, Hypercasual, Kids, run, running, Simulation, WebGL",
+  "thumb": "https://img.gamemonetize.com/hmemtav7ouwtqx6yp0iyv2tnnoi1f3qx/512x384.jpg",
+  "width": "410",
+  "height": "700",
+  "gameControls": [
+    {
+      "key": "Mouse Move",
+      "action": "Move left or right to avoid obstacles"
+    },
+    {
+      "key": "Mouse Left Click",
+      "action": "Control movement direction"
+    },
+    {
+      "key": "Swipe Left / Right",
+      "action": "Move left or right to avoid obstacles"
+    }
+  ]
+},
+{
+  "id": "18009",
+  "title": "Branches Rotation Game",
+  "description": "Play addictive Branches Rotation free game. keep move on the branches as long as you can! Branches Rotation Free Game. Endless Game Play very Interesting & Adventure. Just single tap on screen to rotate the branches and keep the character safe. You can get the higher scores and collect coins to unlock new characters. Branches Rotation free game. Rotate Branches to play. Simple Branches Rotation Game Play. Addictive & free to play the game. Branches Rotation Game is an exciting fun game with an endless mode.",
+  "instructions": "Use Space or Left Mouse Button",
+  "url": "https://html5.gamemonetize.com/i1ky1wgbpmdwervkp2tuo5joibvitejb/",
+  "categoryId": "hypercasual",
+  "tags": ".io Games, 1 Player, 3D, Alien, Boy, Casual, Fun, Hypercasual",
+  "thumb": "https://img.gamemonetize.com/i1ky1wgbpmdwervkp2tuo5joibvitejb/512x384.jpg",
+  "width": "800",
+  "height": "600",
+  "gameControls": [
+    {
+      "key": "Space",
+      "action": "Rotate branches to avoid obstacles"
+    },
+    {
+      "key": "Mouse Click",
+      "action": "Rotate branches to avoid obstacles"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Rotate branches to avoid obstacles"
+    }
+  ]
+},
+{
+  "id": "18110",
+  "title": "Flow Free: Bridges",
+  "description": "Play addictive Flow Free: Bridges free game. keep move on the Bridges as long as you can! Flow Free: Bridges Free Game. Endless Game Play very Interesting & Adventure.",
+  "instructions": "Use Left Mouse Button or Space To Play",
+  "url": "https://html5.gamemonetize.com/b95ncdye33j8lf5x0v812avc9h4wmz9x/",
+  "categoryId": "hypercasual",
+  "tags": "1 Player, Adventure, Boy, Casual, endless, Fun, Hypercasual, Superhero",
+  "thumb": "https://img.gamemonetize.com/b95ncdye33j8lf5x0v812avc9h4wmz9x/512x384.jpg",
+  "width": "410",
+  "height": "700",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Move and continue along the bridges"
+    },
+    {
+      "key": "Space",
+      "action": "Move and continue along the bridges"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Move and continue along the bridges"
+    }
+  ]
+},
+{
+  "id": "39382",
+  "title": "100000000 grains of rice",
+  "description": "This is a very fun leisure decompression magic game. The game is very simple. Players need to click on the game constantly to see how soon you can count to 100 million grains of rice, and pets come to help. There are also plenty of game props to use, and game levels are very rich.",
+  "instructions": "Like most click to place games this game can count meters by clicking on the screen Players only need to click several meters to operate There are also pet unlocks to help you count meters and complete the operation of 100 million grains of rice ",
+  "url": "https://html5.gamemonetize.com/fqvfnl9x0pfvqm748lgouxiuh3nv2hm5/",
+  "categoryId": "hypercasual",
+  "tags": "Click, Funny, Game, Google, H5, HTML5, Math, Number, Play, Simulation, Simulator",
+  "thumb": "https://img.gamemonetize.com/fqvfnl9x0pfvqm748lgouxiuh3nv2hm5/512x384.jpg",
+  "width": "750",
+  "height": "1334",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Increase rice count"
+    },
+    {
+      "key": "Hold Mouse",
+      "action": "Continuously increase rice count"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Increase rice count"
+    }
+  ]
+},
+{
+  "id": "38908",
+  "title": "Survivor.io",
+  "description": "A novel meat pigeon role-playing game, hundreds of props, thousands of monsters, unlimited collocation, to create the strongest hero, pleasant sense of attack, extreme grass cutting experience, select the strongest active props, to complete their own snowball style ultra fast development, easily kill the final boss, you are the only king of the dungeon!",
+  "instructions": "Touch the screen to control the character",
+  "url": "https://html5.gamemonetize.com/8yk2uiqo3i0gu94v1uue5ixy1avsv2o1/",
+  "categoryId": "shooting",
+  "tags": "Google, H5, Killing, Launch, Shoot, Shoot 'Em Up, Shooter, Skills",
+  "thumb": "https://img.gamemonetize.com/8yk2uiqo3i0gu94v1uue5ixy1avsv2o1/512x384.jpg",
+  "width": "750",
+  "height": "1334",
+  "gameControls": [
+    {
+      "key": "Swipe Finger",
+      "action": "Move the character around the arena"
+    },
+    {
+      "key": "Drag Finger",
+      "action": "Control character movement"
+    }
+  ]
+},
+{
+  "id": "39511",
+  "title": "You are in the way",
+  "description": "This is a leisure puzzle game. It controls the rubber man to launch different competitions in the game, occupies the path in the game scene, obtains enough game scores, and fights wits and braves with his opponents in the game to show his superior IQ and magic game playing methods. Interested players come to the game to try.",
+  "instructions": "1 Control them to run on the designated route and paint the route into various beautiful colors 2 Pay attention to the crossing places in each path It is very dangerous here You must think carefully to let all villains avoid collision 3 Each vi",
+  "url": "https://html5.gamemonetize.com/i24vrne14ztg46z7069s88frozturf1v/",
+  "categoryId": "action",
+  "tags": "3D, 3D Games, Avoid, Boy, Boys, Brain, Casual, Click, Color, Coloring, Fun, Game, Games, Girl, Girls, Google, H5, Hypercasual, Kid, Kids, Management, Mobile, Relaxation, Road, run, Sport",
+  "thumb": "https://img.gamemonetize.com/i24vrne14ztg46z7069s88frozturf1v/512x384.jpg",
+  "width": "750",
+  "height": "1334",
+  "gameControls": [
+    {
+      "key": "Mouse Click",
+      "action": "Start character movement on a path"
+    },
+    {
+      "key": "Mouse Drag",
+      "action": "Draw and control movement paths"
+    },
+    {
+      "key": "Tap Screen",
+      "action": "Start character movement on a path"
+    },
+    {
+      "key": "Drag Finger",
+      "action": "Draw and control movement paths"
+    }
+  ]
+}]
+>>>>>>> Stashed changes
