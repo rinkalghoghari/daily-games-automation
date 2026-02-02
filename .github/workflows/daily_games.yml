@@ -1,9 +1,6 @@
 name: Daily Game Generator
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '15 9 * * *'
   workflow_dispatch:
