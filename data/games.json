@@ -1,33 +1,5 @@
 [
   {
-<<<<<<< Updated upstream
-    "id": "43714",
-    "title": "Zombie Ricochet Women Hunter",
-    "description": "Zombie Ricochet Women Hunter is an action-packed game where the player takes on the role of a skilled hunter, tasked with eliminating hordes of zombies. The aim of the game is simple: eliminate as many zombies as possible while staying alive. The game features custom behavior for the player's hand movements for aiming in all directions, with touching the screen triggering the player to shoot bullets at the targets. The zombies are ruthless and relentless, and the player must stay alert and react quickly to avoid being overwhelmed. One unique feature of the game is the use of physics rag-doll behavior for the enemy zombies. This means that when the player shoots a zombie, their body parts will react realistically and detach from the main body, creating an immersive and satisfying gameplay experience. As the player progresses through the levels, the zombie hordes become increasingly challenging to defeat, with new types of zombies with different abilities and strengths appearing. However, the player can collect power-ups and upgrades to their weapons to aid them in their mission. Overall, Zombie Ricochet Women Hunter is a thrilling and action-packed game that is sure to keep players on the edge of their seats. With its unique game play mechanics and immersive physics-based action, it's a game that is hard to put down.",
-    "instructions": "Left Mouse Button Click",
-    "url": "https://html5.gamemonetize.com/m99iynuy9fabol40ujttrowxc6rfr1sy/",
-    "categoryId": "puzzle",
-    "tags": "Android, Blood, Boys, Game, Girl, Gun, HTML5, Kids, Mobile, Puzzle",
-    "thumb": "https://img.gamemonetize.com/m99iynuy9fabol40ujttrowxc6rfr1sy/512x384.jpg",
-    "width": "854",
-    "height": "480",
-    "gameControls": [
-      {
-        "key": "Mouse Move",
-        "action": "Aim at zombies"
-      },
-      {
-        "key": "Mouse Left Click",
-        "action": "Shoot bullets"
-      },
-      {
-        "key": "Tap Screen",
-        "action": "Shoot bullets"
-      }
-    ]
-  }
-]
-=======
   "id": "74535",
   "title": "Dungeon Fighter 3D",
   "description": "Thrilling Gameloft ARPG Sequel! Unite, fearless Bounty Hunters, and embrace Dungeon Hunter fighter 3D - a unique and enthralling hack-and-slash odyssey that continues the cherished Dungeon Hunter saga. As a seasoned dungeon crawler, enter uncharted dungeon territories, reunite with iconic Dungeon Hunter characters, and experience a new level of excitement in this extraordinary action-packed MMORPG installment! Return to Valenthias dungeons 200 years after the brave sacrifice of the Dungeon Hunter and experience brand new thrilling Dungeon quests, in a scale never seen before in a Dungeon Hunter game.",
@@ -622,4 +594,3 @@
     }
   ]
 }]
->>>>>>> Stashed changes
