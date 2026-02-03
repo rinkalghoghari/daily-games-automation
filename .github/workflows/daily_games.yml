@@ -2,8 +2,7 @@ name: Daily Game Generator
 
 on:
   schedule:
-    # - cron: '30 11 * * *' 5:00 PM
-    - cron: '30 4 * * *' 
+    - cron: '30 11 * * *' 
   workflow_dispatch:
 
 permissions:
