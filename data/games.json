@@ -109,7 +109,7 @@
     "description": "Join in a race in the world of mushrooms and magic stars, select and play with any of Mario's friends, Luigi, Toadette or Toad, help them get safely to the castles on each level to be one step closer to rescuing the beautiful princess from Bowser's claws !!",
     "instructions": "Mouse or Touch For Play",
     "url": "https://html5.gamemonetize.com/sly30piwilci61j7pc5x8n36cdu9n19f/",
-    "category": "adventure",
+    "categoryId": "adventure",
     "tags": "Kiz 10, kiz10, Mario",
     "thumb": "https://img.gamemonetize.com/sly30piwilci61j7pc5x8n36cdu9n19f/512x384.jpg",
     "width": "800",
@@ -166,6 +166,1212 @@
       {
         "key": "Tap Screen",
         "action": "Throw harpoon and catch fish"
+      }
+    ]
+  },
+  {
+    "id": "61290",
+    "title": "Labo Brick Train Game For Kids",
+    "description": "Unleash your inner engineer in this delightful train assembly adventure! Perfect for creative minds of all ages, this game lets you build your dream locomotive piece by piece. Choose from various charming train designs, then carefully construct each component from the engine to the carriages. Watch your creation come to life as you snap together colorful bricks and transform scattered parts into a magnificent working train. It's a perfect blend of creativity, problem-solving, and imagination!",
+    "instructions": "Mouse click or tap to play ",
+    "url": "https://html5.gamemonetize.com/sbtnxdebdebmvtoxmgvfey9vnkmjbhss/",
+    "categoryId": "hypercasual",
+    "tags": "Baby Games, Train",
+    "thumb": "https://img.gamemonetize.com/sbtnxdebdebmvtoxmgvfey9vnkmjbhss/512x384.jpg",
+    "width": "1334",
+    "height": "750",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select and assemble train parts"
+      },
+      {
+        "key": "Drag",
+        "action": "Place train components"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select and assemble train parts"
+      }
+    ]
+  },
+  {
+    "id": "21954",
+    "title": "Extreme Rider 3D",
+    "description": "Take your motorcycle skills to breathtaking new heights in this thrilling rooftop racing adventure! Navigate your bike across death-defying ramps perched atop towering skyscrapers in this pulse-pounding 3D simulation. Master gravity-defying jumps, maintain perfect balance on narrow platforms, and conquer increasingly challenging obstacle courses. Every second counts as you race toward the finish line while fighting to stay on track. Do you have what it takes to become the ultimate extreme rider?",
+    "instructions": "PC WD or arrows to move Mobile Slide to move",
+    "url": "https://html5.gamemonetize.com/z7mwspljrivwt5ux62bircpvjnlt0eqr/",
+    "categoryId": "arcade",
+    "tags": "3D, Arcade, Bike, Mobile, Skill, Stunts, WebGL",
+    "thumb": "https://img.gamemonetize.com/z7mwspljrivwt5ux62bircpvjnlt0eqr/512x384.jpg",
+    "width": "440",
+    "height": "750",
+    "gameControls": [
+      {
+        "key": "W / Arrow Up",
+        "action": "Move forward"
+      },
+      {
+        "key": "S / Arrow Down",
+        "action": "Move backward"
+      },
+      {
+        "key": "Arrow Left",
+        "action": "Turn left"
+      },
+      {
+        "key": "Arrow Right",
+        "action": "Turn right"
+      },
+      {
+        "key": "Swipe",
+        "action": "Steer bike on touch devices"
+      }
+    ]
+  },
+  {
+    "id": "71602",
+    "title": "Slither Escape",
+    "description": "Challenge your mind with this captivating snake puzzle adventure! In Slither Escape, you'll guide vibrant serpents through intricate mazes, each one needing to reach its color-matched exit. This beautifully designed HTML5 game combines strategic thinking with quick reflexes as you navigate increasingly complex pathways. Every level presents a fresh brain-teasing challenge that will keep you coming back for more. Can you untangle the serpents and set them all free?",
+    "instructions": "drag to move the snakes",
+    "url": "https://html5.gamemonetize.com/ha123s3jwobpg4g6qp6eryonco60eprw/",
+    "categoryId": "puzzles",
+    "tags": "Color, Puzzle, Slither, Snake",
+    "thumb": "https://img.gamemonetize.com/ha123s3jwobpg4g6qp6eryonco60eprw/512x384.jpg",
+    "width": "640",
+    "height": "1280",
+    "gameControls": [
+      {
+        "key": "Drag",
+        "action": "Move snakes through the maze"
+      },
+      {
+        "key": "Mouse Drag",
+        "action": "Guide snakes to exits"
+      },
+      {
+        "key": "Touch Drag",
+        "action": "Guide snakes to exits"
+      }
+    ]
+  },
+  {
+    "id": "50301",
+    "title": "Crazy Traffic Racer",
+    "description": "Experience the ultimate rush of high-speed street racing in this stunning 3D driving masterpiece! Powered by cutting-edge graphics technology, Crazy Traffic Racer delivers an incredibly realistic and immersive racing experience. Feel every turn, drift, and collision as you navigate through chaotic traffic at breakneck speeds. With breathtaking visuals, lifelike physics, and responsive controls, you'll be transported into a thrilling world where split-second decisions mean the difference between victory and defeat. Buckle up for the ride of your life!",
+    "instructions": "Controls Desktop W or up arrow key - accelerate A or left arrow key - turn left D or right arrow key - turn right S or down arrow key - brake Controls Mobile Tablet Left button - turn left Right button - turn right Two buttons - brake",
+    "url": "https://html5.gamemonetize.com/4yc7lfrhlx6p4bp57uw4su86itmq27ij/",
+    "categoryId": "racing",
+    "tags": "1 Player, 3D, 3D Games, Car, Cars, Crazy, Fun, Mobile, Race, Racing, Traffic",
+    "thumb": "https://img.gamemonetize.com/4yc7lfrhlx6p4bp57uw4su86itmq27ij/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "W / Arrow Up",
+        "action": "Accelerate"
+      },
+      {
+        "key": "S / Arrow Down",
+        "action": "Brake"
+      },
+      {
+        "key": "A / Arrow Left",
+        "action": "Turn left"
+      },
+      {
+        "key": "D / Arrow Right",
+        "action": "Turn right"
+      },
+      {
+        "key": "On-Screen Buttons",
+        "action": "Steer and brake on mobile"
+      }
+    ]
+  },
+  {
+    "id": "30198",
+    "title": "Crazy Traffic Racer Online",
+    "description": "Dominate the urban streets in this intense parkour racing experience! Navigate your vehicle through a bustling cityscape filled with treacherous obstacles and aggressive competitors. This free-to-play racing phenomenon challenges you to push your driving skills to the absolute limit. Master the art of high-speed maneuvering, execute precision braking, and outsmart rival racers across multiple unique circuits. With its frantic pace and endless variety of challenges, every race offers fresh excitement and new opportunities to prove you're the ultimate traffic racer!",
+    "instructions": "Up Arrow Down Arrow and Left Arrow Right Arrow",
+    "url": "https://html5.gamemonetize.com/zl1poijsvtvsu7rq6mm0s7roebv4btuf/",
+    "categoryId": "racing",
+    "tags": "endless, Race, Racing",
+    "thumb": "https://img.gamemonetize.com/zl1poijsvtvsu7rq6mm0s7roebv4btuf/512x384.jpg",
+    "width": "1920",
+    "height": "1080",
+    "gameControls": [
+      {
+        "key": "Arrow Up",
+        "action": "Accelerate"
+      },
+      {
+        "key": "Arrow Down",
+        "action": "Brake"
+      },
+      {
+        "key": "Arrow Left",
+        "action": "Turn left"
+      },
+      {
+        "key": "Arrow Right",
+        "action": "Turn right"
+      }
+    ]
+  },
+  {
+    "id": "66022",
+    "title": "Cook it 3D",
+    "description": "Step into a vibrant culinary wonderland where match-3 meets gourmet cooking! Collect colorful ingredients and combine them on your plate to create mouthwatering dishes that will amaze everyone. This delightful puzzle adventure challenges you to discover new ingredients, unlock exotic recipes, and become a true master chef. With its charming 3D graphics and satisfying gameplay mechanics, every match brings you closer to culinary perfection. Are you ready to embark on the most delicious puzzle journey ever?",
+    "instructions": "Combine 3 required ingredients on the plate with your mouse or finger to get points Do not add more than 3 products to the plate ",
+    "url": "https://html5.gamemonetize.com/w4h80fkwq0ipv6u699rm3mwr6wcfjpqx/",
+    "categoryId": "cooking",
+    "tags": "3D, Cooking, Food, Simulator",
+    "thumb": "https://img.gamemonetize.com/w4h80fkwq0ipv6u699rm3mwr6wcfjpqx/512x384.jpg",
+    "width": "960",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select and place ingredients"
+      },
+      {
+        "key": "Drag",
+        "action": "Combine ingredients on plate"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select and place ingredients"
+      }
+    ]
+  },
+  {
+    "id": "36998",
+    "title": "Kinfe Invincible",
+    "description": "Become a lightning-fast culinary master in this exhilarating vegetable-slicing extravaganza! Channel your inner chef as you wield your kitchen knife with precision and speed. Watch as fresh produce glides along the conveyor belt, and slice them into perfect pieces with expert timing. Similar to the classic fruit-slicing games but with a unique twist, this decompression game tests your reflexes and concentration. Avoid obstacles, maintain your rhythm, and transform every vegetable into thin, uniform slices. It's therapeutic, challenging, and incredibly satisfying!",
+    "instructions": "Although the vegetables in the screen will be transferred quickly there is no need to press the screen The game is a test of reaction in addition to the ingredients on the chopping board there will be obstacles if you cut wrong you will lose time ",
+    "url": "https://html5.gamemonetize.com/wqcr0buabxc65j1bmben6i71q6f59ju5/",
+    "categoryId": "cooking",
+    "tags": "cut, Food, Fruits, Games, H5, Plant, Simulator, Super",
+    "thumb": "https://img.gamemonetize.com/wqcr0buabxc65j1bmben6i71q6f59ju5/512x384.jpg",
+    "width": "750",
+    "height": "1334",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Swing kitchen knife to slice"
+      },
+      {
+        "key": "Hold Screen",
+        "action": "Swing kitchen knife to slice"
+      }
+    ]
+  },
+  {
+    "id": "60800",
+    "title": "Idle Restaurant Tale",
+    "description": "Build your culinary empire from humble beginnings to restaurant royalty! Start as a small street food vendor and work your way up to managing the finest dining establishments. Hire talented staff, upgrade your equipment, and strategically expand your business across 11 vibrant cities featuring over 100 unique levels. Each location presents exciting adventure events and new challenges. Watch your profits soar as you make smart decisions and create the ultimate restaurant chain. Your journey from food cart to fine dining starts now!",
+    "instructions": "Game control is very simple just tap the machines and foods to complete the game levels ",
+    "url": "https://html5.gamemonetize.com/r8zdmvt4yo1vjaet9i2cjattvq3vh40j/",
+    "categoryId": "cooking",
+    "tags": "Casual, Cooking, Cool, Food, Point And Click, Restaurant",
+    "thumb": "https://img.gamemonetize.com/r8zdmvt4yo1vjaet9i2cjattvq3vh40j/512x384.jpg",
+    "width": "640",
+    "height": "480",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Operate machines and serve food"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Operate machines and serve food"
+      }
+    ]
+  },
+  {
+    "id": "75510",
+    "title": "Yummy Toast 2",
+    "description": "Create the most delectable toast creations in this fun-filled cooking adventure! Tap your way through an array of fresh ingredients and toppings to craft the perfect breakfast masterpiece. Serve hungry customers with speed and precision, combining flavors and textures to create toast that will make their taste buds dance. Unlock all achievements as you progress through increasingly challenging orders. Become the ultimate toast master and build your reputation as the best breakfast chef in town!",
+    "instructions": "Use MOUSE to play the game ",
+    "url": "https://html5.gamemonetize.com/mkaluzh9227iu9t3phutqs8vyld5pz5d/",
+    "categoryId": "girls",
+    "tags": "Cook, Cooking, Dress Up, Kids, Simulation",
+    "thumb": "https://img.gamemonetize.com/mkaluzh9227iu9t3phutqs8vyld5pz5d/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select ingredients and prepare toast"
+      },
+      {
+        "key": "Drag",
+        "action": "Assemble toast items"
+      }
+    ]
+  },
+  {
+    "id": "48342",
+    "title": "Baby Taylor Pizza Chef",
+    "description": "Welcome to the most exciting pizzeria adventure for young chefs! Join Baby Taylor as she opens her very own pizza shop and serves delicious pies to friends from around the world. Mix ingredients, spread sauce, add toppings, and bake pizzas to perfection in this educational and entertaining cooking game. With 50 different levels of pizza-making fun, you'll learn the art of creating the perfect pie while racing against the clock. Get ready for incredible free pizza-making excitement that will have you coming back for seconds!",
+    "instructions": "Mouse click or tap to play",
+    "url": "https://html5.gamemonetize.com/rra99tivcnjq553tcvdormnjib45a2id/",
+    "categoryId": "cooking",
+    "tags": "Baby, Baby Games, Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Simulation",
+    "thumb": "https://img.gamemonetize.com/rra99tivcnjq553tcvdormnjib45a2id/512x384.jpg",
+    "width": "800",
+    "height": "504",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Prepare and decorate pizza"
+      },
+      {
+        "key": "Drag",
+        "action": "Add toppings and ingredients"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Prepare and decorate pizza"
+      }
+    ]
+  },
+  {
+    "id": "70122",
+    "title": "Cozy Kitchen Merge",
+    "description": "Relax and merge your way to culinary mastery in this adorable cooking puzzle game! Place delicious dishes on your tray, match three or more of the same item (touching corners or sides), and watch them combine into even tastier recipes. Each successful merge boosts your score, and every 100 points earns you an Eat Token to clear space when things get crowded. Climb through 10 recipe levels, unlock charming achievements, and compete for high scores. With soft visuals, soothing sounds, and quick gameplay sessions, it's the perfect cozy break from your day!",
+    "instructions": "Tap click an empty spot on tray to place the next dish Check the counter the dish on the right goes next Merge 3 or more of the same dish touching each other Every 100 points you get 1 Eat Token In the main menu you can tap and drag the decor ",
+    "url": "https://html5.gamemonetize.com/jcezh6c42tp32b6qy5oulakrv44jc5hi/",
+    "categoryId": "puzzles",
+    "tags": "1 Player, 2D, Boys, Cook, Cooking, Cute, free games for your site, Girls, Matching, Puzzle",
+    "thumb": "https://img.gamemonetize.com/jcezh6c42tp32b6qy5oulakrv44jc5hi/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Place dish on tray"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Place dish on tray"
+      },
+      {
+        "key": "Drag",
+        "action": "Merge matching dishes"
+      }
+    ]
+  },
+  {
+    "id": "64277",
+    "title": "Burger Rush Restaurant",
+    "description": "Transform your tiny burger stand into the town's hottest dining destination! In this sizzling restaurant management adventure, you'll craft mouthwatering burgers from a diverse menu of fresh ingredients, each customized to satisfy your customers' unique cravings. Speed and strategy are key as you juggle multiple orders, combine ingredients cleverly, and serve with a smile. Watch your reputation grow with every perfectly crafted burger, and turn your humble joint into the ultimate burger paradise that everyone's talking about!",
+    "instructions": "Touch Click the ingredients to make a burger and click the customer to serve it",
+    "url": "https://html5.gamemonetize.com/zsn8chm3hmle88thmv96ok6ch9o0eifw/",
+    "categoryId": "cooking",
+    "tags": "Arcade, Cook, Cooking, Restaurant",
+    "thumb": "https://img.gamemonetize.com/zsn8chm3hmle88thmv96ok6ch9o0eifw/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select ingredients"
+      },
+      {
+        "key": "Mouse Click",
+        "action": "Serve burger to customer"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select ingredients and serve food"
+      }
+    ]
+  },
+  {
+    "id": "55216",
+    "title": "Killer Touch",
+    "description": "Defend the skies with lightning-fast reflexes in this intense aerial combat game! Enemy aircraft swarm from all directions, and only your deadly accurate touch stands between victory and defeat. Tap quickly to shoot down hostile planes before they breach your defenses. One direct hit means game over, so stay laser-focused and maintain your concentration. With waves of increasingly aggressive enemies, every second tests your reaction time and precision. Can you become the ultimate sky defender?",
+    "instructions": "Shoot the enemy aircraft before they reach you ",
+    "url": "https://html5.gamemonetize.com/um4runxpv24wisz5pglgxopfqcjry165/",
+    "categoryId": "clicker",
+    "tags": "Aircraft, Casual, Warrior",
+    "thumb": "https://img.gamemonetize.com/um4runxpv24wisz5pglgxopfqcjry165/512x384.jpg",
+    "width": "1366",
+    "height": "768",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Shoot enemy aircraft"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Shoot enemy aircraft"
+      }
+    ]
+  },
+  {
+    "id": "56822",
+    "title": "Jumper Rabbit",
+    "description": "Guide an adorable bunny on a carrot-collecting adventure through challenging platforms! Master the art of the perfect jump by pressing and holding to adjust your power, then releasing at just the right moment to soar through the air. Navigate carefully to avoid dangerous birds and sharp blades while gathering delicious carrots along your path. With physics-based jumping mechanics and increasingly tricky obstacles, this charming platformer will test your timing and precision. How far can your fluffy friend hop?",
+    "instructions": "Mouse",
+    "url": "https://html5.gamemonetize.com/myic7wgdefpsknmxsu6e8jksph33faaa/",
+    "categoryId": "clicker",
+    "tags": "Animal, Arcade, Casual, Fun, HTML5, html5 games for your site, jump, Jumping, Mouse, Platform, Rabbit",
+    "thumb": "https://img.gamemonetize.com/myic7wgdefpsknmxsu6e8jksph33faaa/512x384.jpg",
+    "width": "540",
+    "height": "960",
+    "gameControls": [
+      {
+        "key": "Hold Mouse Button",
+        "action": "Adjust jump power"
+      },
+      {
+        "key": "Release Mouse Button",
+        "action": "Jump to next platform"
+      },
+      {
+        "key": "Hold Screen",
+        "action": "Adjust jump power"
+      },
+      {
+        "key": "Release Screen",
+        "action": "Jump to next platform"
+      }
+    ]
+  },
+  {
+    "id": "73093",
+    "title": "MetaStack",
+    "description": "Build the tallest tower imaginable in this addictive precision-stacking challenge! Drop moving blocks with perfect timing to create a sky-high structure that defies gravity. Every perfectly aligned drop stabilizes your tower and boosts your score, while mistakes can spell disaster. Activate powerful power-ups to extend your building spree and reach new heights. With smooth gameplay, competitive scoring, and endless replayability, this stacking experience delivers pure satisfaction. How high can you stack before your tower topples?",
+    "instructions": "Tap Click Drop the moving block Timing is key Release the block when it aligns with the stack Perfect Drops Achieve perfect alignment to boost your score and stabilize the tower Use Power-Ups Activate special boosts to help you reach higher levels",
+    "url": "https://html5.gamemonetize.com/dlnb4987u5ap9i4p8phnryzhuqulufa5/",
+    "categoryId": "clicker",
+    "tags": "1 Player, 2025 games, Android, blocky",
+    "thumb": "https://img.gamemonetize.com/dlnb4987u5ap9i4p8phnryzhuqulufa5/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Drop the moving block"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Drop the moving block"
+      }
+    ]
+  },
+  {
+    "id": "30631",
+    "title": "Pokemon Coloring",
+    "description": "Bring your favorite Pokemon back to life with vibrant colors! These beloved characters have lost all their hues and now depend on your artistic vision to restore their glory. You're not bound by the original designs—unleash your creativity and color each Pokemon however you imagine. Mix and match colors, experiment with wild combinations, or stick to classic palettes. It's your chance to reimagine these iconic creatures in your own unique style. Let your imagination run wild and create Pokemon masterpieces!",
+    "instructions": "Use mouse or tap the screen",
+    "url": "https://html5.gamemonetize.com/7co1as9t3zjht3mmmv9i5lsncx2yysft/",
+    "categoryId": "arcade",
+    "tags": "Coloring, Fun, HTML5, Kids, Mobile",
+    "thumb": "https://img.gamemonetize.com/7co1as9t3zjht3mmmv9i5lsncx2yysft/512x384.jpg",
+    "width": "960",
+    "height": "540",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select colors and paint"
+      },
+      {
+        "key": "Drag",
+        "action": "Color the picture"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select colors and paint"
+      }
+    ]
+  },
+  {
+    "id": "9319",
+    "title": "New Year Celebration Episode1",
+    "description": "Join Mr. Charles on an exciting New Year's adventure filled with mystery and puzzle-solving! On his journey to celebrate the new year, he's lost his bike key and found himself trapped in a mysterious location. Your mission is to explore the environment, discover hidden objects, decode clever hints, and solve intricate puzzles to help him escape. Every corner holds secrets, and every clue brings you closer to freedom. Can you crack the puzzles and reunite Mr. Charles with his bike before the New Year's countdown ends?",
+    "instructions": "Mouse Interact",
+    "url": "https://html5.gamemonetize.com/b214r8qbs7gvqu34tg5ttnm5ab9h8jak/",
+    "categoryId": "puzzles",
+    "tags": "Escape, Point And Click",
+    "thumb": "https://img.gamemonetize.com/b214r8qbs7gvqu34tg5ttnm5ab9h8jak/512x384.jpg",
+    "width": "800",
+    "height": "480",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Interact with objects"
+      },
+      {
+        "key": "Drag",
+        "action": "Use or combine items"
+      }
+    ]
+  },
+  {
+    "id": "30239",
+    "title": "Cute Cat Escape",
+    "description": "Venture into an enchanted fantasy forest on a peaceful evening escape, only to discover an adorable cat trapped and in need of your help! This captivating point-and-click adventure challenges you to explore the magical woodland, uncover hidden objects, and solve intriguing puzzles to set the furry friend free. Every tree, rock, and flower might hold the key to unlocking the mystery. Use your observation skills and creative thinking to rescue the cat and become the hero of this charming tale!",
+    "instructions": "Mouse Interact",
+    "url": "https://html5.gamemonetize.com/uxxwh4ugnv7t40otw8hic8za7fhiiw1j/",
+    "categoryId": "puzzles",
+    "tags": "Escape, Point And Click",
+    "thumb": "https://img.gamemonetize.com/uxxwh4ugnv7t40otw8hic8za7fhiiw1j/512x384.jpg",
+    "width": "800",
+    "height": "480",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Interact with objects"
+      },
+      {
+        "key": "Drag",
+        "action": "Solve puzzles and use items"
+      }
+    ]
+  },
+  {
+    "id": "75287",
+    "title": "Combo Crush",
+    "description": "Prepare for a fast-paced puzzle explosion where strategy meets pure satisfaction! Find and blast away groups of matching colored blocks to reach your target score before the board locks up. As levels progress, you'll need sharp logic and clever planning to master increasingly complex grids. Earn points to unlock helpful power-ups in the shop, tackle bigger grids, and face new color challenges. With its addictive combo mechanics and escalating difficulty, Combo Crush delivers endless puzzle excitement that will keep your mind engaged for hours!",
+    "instructions": "Use Mouse To Play",
+    "url": "https://html5.gamemonetize.com/sjrfvn10lojsxqjjir7fmxwzvutfwj2l/",
+    "categoryId": "puzzles",
+    "tags": "Block, Brain, endless, HTML5, Puzzle, puzzleblock, Skill, Skills",
+    "thumb": "https://img.gamemonetize.com/sjrfvn10lojsxqjjir7fmxwzvutfwj2l/512x384.jpg",
+    "width": "720",
+    "height": "1080",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Remove matching block groups"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Remove matching block groups"
+      }
+    ]
+  },
+  {
+    "id": "66980",
+    "title": "Swing Hero",
+    "description": "Experience an adrenaline-pumping rope-swinging adventure as a brave monkey descends down a treacherous cliff! Grip your rope tight and swing left and right to dodge deadly obstacles including jagged rocks and slithering snakes. This thrilling action game puts your timing and reflexes to the ultimate test as you plummet through increasingly dangerous terrain. Every swing could be your last, so stay alert and react quickly. How far down the cliff can you survive in this heart-racing descent?",
+    "instructions": "Desktop Mouse Drag Swing Rope Mobile Click and hold Swing Rope ",
+    "url": "https://html5.gamemonetize.com/czcr4z403xj0fdtaqc8ilxvlvzvj3v1r/",
+    "categoryId": "hypercasual",
+    "tags": "Adventure, Casual, Clicker, HTML, HTML5, Hypercasual, NapTech Games",
+    "thumb": "https://img.gamemonetize.com/czcr4z403xj0fdtaqc8ilxvlvzvj3v1r/512x384.jpg",
+    "width": "1080",
+    "height": "1920",
+    "gameControls": [
+      {
+        "key": "Mouse Drag",
+        "action": "Swing the rope left and right"
+      },
+      {
+        "key": "Hold Screen",
+        "action": "Swing the rope"
+      }
+    ]
+  },
+  {
+    "id": "74498",
+    "title": "Zig Zag Color",
+    "description": "Navigate a mesmerizing zigzag path in this vibrant and challenging arcade adventure! Tap the screen to change direction at just the right moment, weaving through a colorful course while collecting sparkling stars. The simple controls hide deceptively tricky gameplay that demands perfect timing and concentration. Compete with friends to climb the leaderboard and prove who has the sharpest reflexes. With its addictive one-tap mechanics and endless excitement, Zig Zag Color will keep you coming back to beat your high score!",
+    "instructions": "Mouse click or tap to play",
+    "url": "https://html5.gamemonetize.com/jt5k4vhyfbpke8fdv1dpcivdwm4id0uo/",
+    "categoryId": "clicker",
+    "tags": "",
+    "thumb": "https://img.gamemonetize.com/jt5k4vhyfbpke8fdv1dpcivdwm4id0uo/512x384.jpg",
+    "width": "350",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Change direction"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Change direction"
+      }
+    ]
+  },
+  {
+    "id": "50264",
+    "title": "Eat Small Fish",
+    "description": "Dive into the deep blue ocean in this thrilling underwater survival adventure! Start as a tiny fish and devour smaller prey to grow bigger and stronger. Progress through the aquatic food chain from small fish to big fish, then giant fish, and ultimately become the mega fish ruler of the seas. Every meal makes you more powerful, but watch out—larger predators are always lurking. Navigate the underwater world strategically, hunt wisely, and evolve into the ocean's most fabulous and fearsome fish!",
+    "instructions": "Mouse click or tap to play",
+    "url": "https://html5.gamemonetize.com/5h7odu5oyzgdzo77493utlamcoz43wlj/",
+    "categoryId": "arcade",
+    "tags": "Fish, Fishing",
+    "thumb": "https://img.gamemonetize.com/5h7odu5oyzgdzo77493utlamcoz43wlj/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Move and eat smaller fish"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Move and eat smaller fish"
+      }
+    ]
+  },
+  {
+    "id": "56410",
+    "title": "Baby Animals Pet Vet Care",
+    "description": "Put on your veterinarian coat and help adorable injured animals feel better! Two sweet kittens and gentle ponies need your expert care and compassion. Examine their injuries, apply soothing treatments, and carefully bandage their wounds. This heartwarming pet care simulator teaches kids about animal welfare while providing hours of entertaining gameplay. If you have a passion for helping animals and love furry friends, this is the perfect game to express your caring nature while having fun!",
+    "instructions": "Mouse click or tap to play",
+    "url": "https://html5.gamemonetize.com/fd2h9z2r60ru689iec2gv1ecpq9ndt3d/",
+    "categoryId": "hypercasual",
+    "tags": "Casual, Cat",
+    "thumb": "https://img.gamemonetize.com/fd2h9z2r60ru689iec2gv1ecpq9ndt3d/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select tools and treat animals"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select tools and treat animals"
+      }
+    ]
+  },
+  {
+    "id": "70501",
+    "title": "Ultimate Bottle Flip Game",
+    "description": "Master the viral sensation of bottle flipping in this ultimate 3D parkour adventure! Tap to flip, spin, and launch your water bottle through incredible obstacle courses and challenging environments. Perfect your technique across endless tricks and levels, each more exciting than the last. With stunning graphics, relaxing tap-to-play controls, and diverse challenges that test your flipping prowess, this offline game combines skill and fun in perfect harmony. Can you achieve the impossible and become the ultimate bottle-flipping champion?",
+    "instructions": "Mouse click or tap to play",
+    "url": "https://html5.gamemonetize.com/ralvylg9mlb81zphmf70vo2f3k0u777w/",
+    "categoryId": "adventure",
+    "tags": "2025 games, Adventure, amazing, Brainrot",
+    "thumb": "https://img.gamemonetize.com/ralvylg9mlb81zphmf70vo2f3k0u777w/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Flip the bottle"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Flip the bottle"
+      }
+    ]
+  },
+  {
+    "id": "37768",
+    "title": "ULTIMATE FLYING CAR CRAZY",
+    "description": "Soar through the skies in the most realistic flying car simulator ever created! Experience the thrill of both ground racing and aerial exploration across expansive city streets and open skies. Unlock stylish flying vehicles, compete in adrenaline-pumping races, and master the art of transitioning between driving and flying. Whether playing solo or challenging a friend in 2-player mode, this ultimate flying car experience delivers non-stop action. Take fast rides, perform aerial stunts, and dominate both the streets and the stratosphere!",
+    "instructions": "Do you want to take fast rides and flights on the long streets of the city Ultimate Flying Car game invites you to realistic flying car simulator experience Explore the sky with stylish flying cars or unlock new cars by participating in races You can ",
+    "url": "https://html5.gamemonetize.com/df246rvtzl4secl4d7yuow5uey9argse/",
+    "categoryId": "racing",
+    "tags": ".io Games, Adventure, Arcade, Race",
+    "thumb": "https://img.gamemonetize.com/df246rvtzl4secl4d7yuow5uey9argse/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "W / A / S / D",
+        "action": "Move Player 1 car"
+      },
+      {
+        "key": "Arrow Keys",
+        "action": "Move Player 2 car"
+      },
+      {
+        "key": "Shift",
+        "action": "Nitro boost (Player 1)"
+      },
+      {
+        "key": "M",
+        "action": "Nitro boost (Player 2)"
+      },
+      {
+        "key": "Space",
+        "action": "Handbrake (Player 1)"
+      },
+      {
+        "key": "K",
+        "action": "Handbrake (Player 2)"
+      },
+      {
+        "key": "R",
+        "action": "Reset car position (Player 1)"
+      },
+      {
+        "key": "U",
+        "action": "Reset car position (Player 2)"
+      }
+    ]
+  },
+  {
+    "id": "56721",
+    "title": "Logical Ball Escape",
+    "description": "Challenge your brain with this amazing physics-based puzzle adventure! Guide a ball safely to the exit door by manipulating objects and using logical thinking. Each level presents unique challenges that require careful planning and creative problem-solving. Don't let the ball fall, or it's game over! With high-quality graphics, minimal file size, and super-simple controls, this mind-bending game offers hours of engaging entertainment. If you love logical puzzles and brain teasers, this captivating ball escape challenge is perfect for you!",
+    "instructions": "How to play Android Use On-Screen touch and tap PC Use Mouse Left Click to tap ",
+    "url": "https://html5.gamemonetize.com/5x3c8p5fne5r57bz2olo8fj9usg5fwux/",
+    "categoryId": "puzzles",
+    "tags": "2D, Adventure, Casual, Puzzle",
+    "thumb": "https://img.gamemonetize.com/5x3c8p5fne5r57bz2olo8fj9usg5fwux/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Activate objects and move ball"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Activate objects and move ball"
+      }
+    ]
+  },
+  {
+    "id": "75321",
+    "title": "candy tap world ",
+    "description": "Test your lightning-fast reflexes in this sweet and colorful candy-tapping frenzy! Tap the vibrant candies as they fly upward from the bottom of the screen, scoring points before they disappear at the top. Miss a candy and you'll lose valuable points! This simple yet addictive game challenges your speed, accuracy, and hand-eye coordination. With its cheerful graphics and increasingly fast pace, Candy Tap World offers endless fun for players of all ages. How high can you score before the candies overwhelm you?",
+    "instructions": "Mouse click or tap to play",
+    "url": "https://html5.gamemonetize.com/nnk8pcs8cglrd59wycux2mmjvwjdna6h/",
+    "categoryId": "clicker",
+    "tags": "1 Player, 2025 games, 2026 games, 2D, Air, amazing, Best Games, Candy, Girls, sky, Super",
+    "thumb": "https://img.gamemonetize.com/nnk8pcs8cglrd59wycux2mmjvwjdna6h/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Tap candies to score points"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Tap candies to score points"
+      }
+    ]
+  },
+  {
+    "id": "3263",
+    "title": "Food Trucks Jigsaw",
+    "description": "Piece together delicious scenes featuring colorful food trucks in this delightful jigsaw puzzle collection! Choose from 12 mouthwatering images and select your preferred difficulty: easy mode with 25 pieces for quick fun, medium with 49 pieces for a moderate challenge, or hard with 100 pieces to really test your puzzle-solving skills. Perfect for all ages, this relaxing game combines the joy of jigsaw puzzles with the vibrant world of street food. Enjoy hours of entertainment as you assemble each tasty scene!",
+    "instructions": "Use your mouse to play the game or tap on the screen ",
+    "url": "https://html5.gamemonetize.com/nco6c9mwehno7gpcc8u7zaj870oy4r0r/",
+    "categoryId": "puzzles",
+    "tags": "Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle",
+    "thumb": "https://img.gamemonetize.com/nco6c9mwehno7gpcc8u7zaj870oy4r0r/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Drag",
+        "action": "Move and place puzzle pieces"
+      },
+      {
+        "key": "Tap & Drag",
+        "action": "Move and place puzzle pieces"
+      }
+    ]
+  },
+  {
+    "id": "2733",
+    "title": "Speedy Muscle Cars Jigsaw",
+    "description": "Rev up your engines and piece together stunning images of powerful muscle cars! This free jigsaw puzzle game features 12 high-octane images of the world's most impressive speed machines. Select your challenge level—easy with 25 pieces for beginners, medium with 49 pieces for enthusiasts, or hard with 100 pieces for true puzzle masters. Whether you're a car lover or puzzle fanatic, this game delivers satisfying entertainment as you reconstruct these magnificent automotive beasts piece by piece!",
+    "instructions": "Use your mouse to play the game or tap ob n the screen ",
+    "url": "https://html5.gamemonetize.com/ox2ozu3ev3nh7xbfxsru94a1sys7y45n/",
+    "categoryId": "puzzles",
+    "tags": "Car, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle",
+    "thumb": "https://img.gamemonetize.com/ox2ozu3ev3nh7xbfxsru94a1sys7y45n/512x384.jpg",
+    "width": "960",
+    "height": "540",
+    "gameControls": [
+      {
+        "key": "Mouse Drag",
+        "action": "Move and place puzzle pieces"
+      },
+      {
+        "key": "Tap & Drag",
+        "action": "Move and place puzzle pieces"
+      }
+    ]
+  },
+  {
+    "id": "75439",
+    "title": "Neon Directive",
+    "description": "Experience the classic arcade thrill reborn with a stunning futuristic makeover! Master the art of bouncing, brick-shattering, and power-up unleashing across 30 uniquely designed levels. Unlock spectacular abilities like Multi-Ball mayhem and the mysterious Ghost Ball while enjoying buttery-smooth paddle controls for pixel-perfect precision. This modern take on the beloved brick-breaker genre is simple to learn but challenging to master. Plan your shots strategically, unleash spectacular combos, and climb to the top of the high score leaderboard!",
+    "instructions": "Space Bar - Shoot Ball Arrow Keys - Move paddle left right",
+    "url": "https://html5.gamemonetize.com/uld6tyf7inegdrqfnx6w34vj3jqdtzv2/",
+    "categoryId": "hypercasual",
+    "tags": "Arcade, Arkanoid, Bricks, Casual, destroy, Highscore, Hypercasual",
+    "thumb": "https://img.gamemonetize.com/uld6tyf7inegdrqfnx6w34vj3jqdtzv2/512x384.jpg",
+    "width": "1024",
+    "height": "768",
+    "gameControls": [
+      {
+        "key": "Arrow Left",
+        "action": "Move paddle left"
+      },
+      {
+        "key": "Arrow Right",
+        "action": "Move paddle right"
+      },
+      {
+        "key": "Space",
+        "action": "Launch the ball"
+      }
+    ]
+  },
+  {
+    "id": "31211",
+    "title": "Advanced Car Parking 3D Simulator",
+    "description": "Park like a pro in the sequel to the legendary mobile parking sensation! Advanced Car Parking 3D Simulator launches a new era of precision driving with jaw-dropping graphics, challenging multi-stage levels, and real-time online competition. Navigate tight spaces, master complex parking maneuvers, and overcome increasingly difficult obstacles. Whether you're perfecting parallel parking or conquering multi-level garages, this realistic simulation will transform you into a parking expert. Can you achieve perfect parking scores on every level?",
+    "instructions": "Key Board Controls",
+    "url": "https://html5.gamemonetize.com/82iagukj422w1jyinqs6g0oaombqgzti/",
+    "categoryId": "racing",
+    "tags": "1 Player, 3D, 3D Games, Best, Car, Cars, Color, drifting, Driving, Simulation, Simulator, Supercars, Unity3D",
+    "thumb": "https://img.gamemonetize.com/82iagukj422w1jyinqs6g0oaombqgzti/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "W / Up Arrow",
+        "action": "Accelerate"
+      },
+      {
+        "key": "S / Down Arrow",
+        "action": "Brake / Reverse"
+      },
+      {
+        "key": "A / Left Arrow",
+        "action": "Steer left"
+      },
+      {
+        "key": "D / Right Arrow",
+        "action": "Steer right"
+      },
+      {
+        "key": "Space",
+        "action": "Handbrake"
+      }
+    ]
+  },
+  {
+    "id": "31603",
+    "title": "Super Car Driving 2 Simulator 3D",
+    "description": "Live out your racing dreams in the most advanced car simulator of its generation! Thanks to revolutionary real-physics engine technology, you'll experience authentic sports car handling like never before. Drift furiously through an entire open-world city with no traffic rules to hold you back—no police chases, just pure high-speed freedom! Execute illegal stunts, perform spectacular burnouts, and push your supercar to its absolute limits. The asphalt is yours to dominate in this ultimate driving playground!",
+    "instructions": "Key Board Controls",
+    "url": "https://html5.gamemonetize.com/wjf4268ogujdzr64wglv4se0kd8nhjdf/",
+    "categoryId": "racing",
+    "tags": "1 Player, 3D, 3D Games, Arcade, Best, Car, drift, drifting, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D",
+    "thumb": "https://img.gamemonetize.com/wjf4268ogujdzr64wglv4se0kd8nhjdf/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "W / Up Arrow",
+        "action": "Accelerate"
+      },
+      {
+        "key": "S / Down Arrow",
+        "action": "Brake / Reverse"
+      },
+      {
+        "key": "A / Left Arrow",
+        "action": "Turn left"
+      },
+      {
+        "key": "D / Right Arrow",
+        "action": "Turn right"
+      },
+      {
+        "key": "Space",
+        "action": "Handbrake / Drift"
+      }
+    ]
+  },
+  {
+    "id": "44443",
+    "title": "Bus Driving Amazing",
+    "description": "Become a professional coach driver in the first authentic bus simulation that teaches you to navigate real routes across stunning European landscapes! Transport passengers between cities, showcase breathtaking scenic views, and master the art of handling massive coaches. With an expansive open-world map, incredible vehicle selection, and gorgeous interiors, you'll experience the most realistic bus driving adventure ever created. Enter the immersive world of professional transportation and drive through Europe like a true coach captain!",
+    "instructions": "KeyBoard Controls",
+    "url": "https://html5.gamemonetize.com/ear2s20frvn5pm9es6h9jtpbq63qjzmk/",
+    "categoryId": "racing",
+    "tags": ".io, .io Games, 1 Player, 3D, 3D Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Interactive Fiction, IO, Mario, Minion, Relaxation, Unity3D",
+    "thumb": "https://img.gamemonetize.com/ear2s20frvn5pm9es6h9jtpbq63qjzmk/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "W / Up Arrow",
+        "action": "Accelerate"
+      },
+      {
+        "key": "S / Down Arrow",
+        "action": "Brake"
+      },
+      {
+        "key": "A / Left Arrow",
+        "action": "Turn left"
+      },
+      {
+        "key": "D / Right Arrow",
+        "action": "Turn right"
+      }
+    ]
+  },
+  {
+    "id": "24839",
+    "title": "A Day With Masha And The Bear - Fun Together",
+    "description": "Wake up to an amazing day filled with fun and learning alongside Masha and her lovable friends! This comprehensive activity collection features over 20 exciting games including bike riding, animal spotting, fishing adventures, checkers matches, and cake baking. Along the way, you'll master important skills like telling time, addition, letter tracing, recycling, and much more. With its diverse educational activities wrapped in entertaining gameplay, this is the ultimate app for Masha and the Bear fans who want to play, learn, and grow!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/naz6nqf341hnw7x7nnfw2u3vh45e437q/",
+    "categoryId": "girls",
+    "tags": "Adventure, Animal, Casual, Cute, Girl, Girls, H5, HTML5",
+    "thumb": "https://img.gamemonetize.com/naz6nqf341hnw7x7nnfw2u3vh45e437q/512x384.jpg",
+    "width": "1280",
+    "height": "960",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select activities and interact"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select activities and interact"
+      }
+    ]
+  },
+  {
+    "id": "37561",
+    "title": "Kitsune Zenko Adventure Game",
+    "description": "Join an adorable fox on an epic pixel-art adventure through mystical lands! This charming little kitsune needs your help collecting precious diamonds, shiny coins, and delicious cherries while navigating treacherous platforming challenges. Watch out for dangerous obstacles that lurk around every corner—one wrong move could end your journey! With its retro-inspired graphics and engaging gameplay, this adventure platform game delivers classic fun with modern charm. Guide the fox to victory in this delightful quest!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/2jk2mkem3zsi6o2th0k89wk98l126pjz/",
+    "categoryId": "boys",
+    "tags": "Adventure, Boy, Boys, Fun, H5, HTML5, Kid, Kids",
+    "thumb": "https://img.gamemonetize.com/2jk2mkem3zsi6o2th0k89wk98l126pjz/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Jump and interact"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Jump and interact"
+      }
+    ]
+  },
+  {
+    "id": "30168",
+    "title": "Stop Them All",
+    "description": "Take control of devious traps in this gorgeous casual arcade game with incredibly simple mechanics! Your mission is to activate traps at precisely the right moment to stop characters racing toward the finish line. Timing is everything—tap too early or too late and your targets will slip past your defenses. Focus intensely and develop your sense of perfect timing as levels become progressively more challenging. With its addictive one-button gameplay and satisfying trap mechanics, can you rise to the challenge and stop them all?",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/qotlmbid6lwjfknpkwwjqgvvit3cwpth/",
+    "categoryId": "racing",
+    "tags": "3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Kid, Kids, running",
+    "thumb": "https://img.gamemonetize.com/qotlmbid6lwjfknpkwwjqgvvit3cwpth/512x384.jpg",
+    "width": "750",
+    "height": "1334",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Activate traps"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Activate traps"
+      }
+    ]
+  },
+  {
+    "id": "27427",
+    "title": "Line Color 3D - Fun & Run 3D Game",
+    "description": "Put your reflexes to the test in this captivating 3D arcade runner! Navigate your colored line through a treacherous obstacle course, dodging barriers and hazards while racing to the finish. This challenging game demands quick thinking, precise movements, and unwavering concentration. Every level brings new obstacles to overcome, and only the most skilled players will conquer them all. If you're looking to kill time while testing your limits, Line Color 3D offers endless entertainment and escalating challenges!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/jdkdximy6f88fd7f2014gqyd5c3evfdd/",
+    "categoryId": "hypercasual",
+    "tags": "3D, 3D Games, Arcade, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kid, Kids, Race, run",
+    "thumb": "https://img.gamemonetize.com/jdkdximy6f88fd7f2014gqyd5c3evfdd/512x384.jpg",
+    "width": "720",
+    "height": "1280",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Stop or release movement"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Stop or release movement"
+      }
+    ]
+  },
+  {
+    "id": "24648",
+    "title": "Masha And The Bear Jigsaw - Puzzles For Kids",
+    "description": "Delight young puzzle enthusiasts with this charming collection featuring everyone's favorite adventurous duo! Children love the colorful world of Masha and the Bear, and now they can piece together their favorite scenes from the beloved cartoon series. With age-appropriate difficulty levels and vibrant imagery, this jigsaw game provides hours of educational entertainment. Perfect for developing problem-solving skills, spatial awareness, and patience while enjoying the magical adventures of Masha and her gentle bear friend!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/dignx4a0mc009jxd0i33z75wpjle8nmn/",
+    "categoryId": "girls",
+    "tags": "Adventure, Animal, Baby, Girl, H5, HTML5, Jigsaw, Music, Puzzle",
+    "thumb": "https://img.gamemonetize.com/dignx4a0mc009jxd0i33z75wpjle8nmn/512x384.jpg",
+    "width": "720",
+    "height": "1280",
+    "gameControls": [
+      {
+        "key": "Mouse Drag",
+        "action": "Move puzzle pieces"
+      },
+      {
+        "key": "Tap & Drag",
+        "action": "Move puzzle pieces"
+      }
+    ]
+  },
+  {
+    "id": "28573",
+    "title": "Sweet Baby Girl Christmas - Fun Holiday",
+    "description": "Discover the magic of Christmas in Santa's enchanted village! Sweet Baby Girl and her best friends are Santa's most adorable helpers this holiday season. Join them for festive fun including baking ginger cookies, dressing up Santa, pampering him at the spa, creating frozen ice sculptures, rescuing Rudolph the reindeer, and so much more! This comprehensive Christmas adventure combines creativity, caring activities, and holiday magic into one delightful package that captures the true spirit of the season!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/6ryfoq09syb2tgyc09gottbwhhxk1hb1/",
+    "categoryId": "hypercasual",
+    "tags": "Christmas, Cleaning, Decorate, Decoration, Dress Up, Educational, Fun, Girl, Girls, H5, House, HTML5, Hypercasual, Kid, Kids, Makeover",
+    "thumb": "https://img.gamemonetize.com/6ryfoq09syb2tgyc09gottbwhhxk1hb1/512x384.jpg",
+    "width": "800",
+    "height": "504",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Select items and play activities"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Select items and play activities"
+      }
+    ]
+  },
+  {
+    "id": "32609",
+    "title": "Charge Through Racing - Drifting Game",
+    "description": "Navigate your fragile vehicle across perilous platforms in this skillful driving challenge! Dangerous obstacles line your path, ready to destroy your car in an instant. Success requires patience, careful observation, and impeccable timing. Study the rhythm of moving hazards, identify safe gaps, and charge through at precisely the right moment. Don't rush—one miscalculation could spell disaster. Master the art of calculated risk-taking and prove you have what it takes to conquer this treacherous racing course!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/oye8z29s4b7s4nqymuklc5noyx0p9jvr/",
+    "categoryId": "racing",
+    "tags": "Boy, Boys, Car, Crazy, drift, drifting, Driving, Fun, H5, HTML5, Kid, Kids, Race, Racing",
+    "thumb": "https://img.gamemonetize.com/oye8z29s4b7s4nqymuklc5noyx0p9jvr/512x384.jpg",
+    "width": "1334",
+    "height": "750",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Accelerate and drift"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Accelerate and drift"
+      }
+    ]
+  },
+  {
+    "id": "43144",
+    "title": "Money Rich Lover",
+    "description": "Experience the exhilarating journey from rags to riches in this addictive parkour adventure! Play as an aspiring millionaire navigating the challenging path to financial success. Dodge tempting distractions like parties and video games that threaten to drain your fortune. Stay focused, make smart choices, and watch your assets grow with every wise decision. Your wealth determines your ultimate destination—will you achieve millionaire status or fall into bankruptcy? Navigate this money-making journey and discover where your financial decisions lead!",
+    "instructions": "Tap or click",
+    "url": "https://html5.gamemonetize.com/cuphsqorseyag3ymk2xn9okuf9uqkh3i/",
+    "categoryId": "girls",
+    "tags": "Adventure, Arcade, Funny, Girls",
+    "thumb": "https://img.gamemonetize.com/cuphsqorseyag3ymk2xn9okuf9uqkh3i/512x384.jpg",
+    "width": "750",
+    "height": "1334",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Navigate and make choices"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Navigate and make choices"
+      }
+    ]
+  },
+  {
+    "id": "29492",
+    "title": "Winter Gems 10x10",
+    "description": "Match sparkling gems on a frosty 10x10 grid in this pure and addictive puzzle challenge! Success comes from collecting ten matching gems in perfect straight lines—whether horizontal, vertical, or diagonal. Forget about colors and patterns; think strategically and treat each group as building blocks for maximum scores. As an endless game, your goal is to create as many matches as possible before running out of space. How high can you score in this winter wonderland of gem-matching excitement?",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/cu1h5csk09h63jv12tifem98vv7i6hbl/",
+    "categoryId": "girls",
+    "tags": "Boy, Boys, Brain, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Puzzle",
+    "thumb": "https://img.gamemonetize.com/cu1h5csk09h63jv12tifem98vv7i6hbl/512x384.jpg",
+    "width": "750",
+    "height": "1334",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Place and match gems"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Place and match gems"
+      }
+    ]
+  },
+  {
+    "id": "37331",
+    "title": "Giant Rush Online 3D",
+    "description": "Embark on the year's most thrilling arcade adventure combining parkour action with epic battles! Collect colorful fruits as you dash across platforms, transforming your character's appearance with each gathered item. Strategically avoid incompatible fruits while racing toward victory. But that's not all—when you're not running, engage in exciting combat against other players! With its unique blend of collection mechanics, obstacle avoidance, and competitive multiplayer action, Giant Rush Online delivers addictive 3D gameplay that keeps you coming back for more!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/zvn8gv24yngpds84lkovxpjc923byhzh/",
+    "categoryId": "boys",
+    "tags": "3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kid, Kids, run, running",
+    "thumb": "https://img.gamemonetize.com/zvn8gv24yngpds84lkovxpjc923byhzh/512x384.jpg",
+    "width": "750",
+    "height": "1334",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Change direction and interact"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Change direction and interact"
+      }
+    ]
+  },
+  {
+    "id": "32662",
+    "title": "Doctor Kids 2 - Doctor Game",
+    "description": "Become a compassionate pediatrician and help young patients feel better! Use your medical expertise to check respiratory systems, treat sore throats, eliminate pesky head lice, heal digestive issues, operate advanced MRI scanners, and even pilot emergency helicopters. Each patient presents unique challenges that require careful examination and treatment. Apply your medical skills with precision and spread happiness to sick children who need your care. It's time to don your white coat and make a difference in these little patients' lives!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/9cqnazvygopdztm0b5u3uf64k7o8soa6/",
+    "categoryId": "hypercasual",
+    "tags": "Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids",
+    "thumb": "https://img.gamemonetize.com/9cqnazvygopdztm0b5u3uf64k7o8soa6/512x384.jpg",
+    "width": "720",
+    "height": "1280",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Use medical tools and treat patients"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Use medical tools and treat patients"
+      }
+    ]
+  },
+  {
+    "id": "28597",
+    "title": "My New Baby Twins - Baby Care Game",
+    "description": "Experience the beautiful journey of twin pregnancy and newborn care! Craft adorable matching outfits for your twins, accompany expectant mothers to important medical checkups, and choose stylish maternity clothes that keep moms comfortable and fashionable. Create a soothing environment with relaxing music that both mother and babies will love. This heartwarming game lets you share in the joys and responsibilities of preparing for twins, from pregnancy through those precious first moments. Make every moment magical as you welcome these little princesses into the world!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/kubn1ici2cv67utn76gal1adjd2mgdvi/",
+    "categoryId": "girls",
+    "tags": "2D, Baby, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual",
+    "thumb": "https://img.gamemonetize.com/kubn1ici2cv67utn76gal1adjd2mgdvi/512x384.jpg",
+    "width": "504",
+    "height": "800",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Care for babies and interact with items"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Care for babies and interact with items"
+      }
+    ]
+  },
+  {
+    "id": "39557",
+    "title": "Ricochet Arrow: Shooting Game",
+    "description": "Grab your bow and prepare for skeletal destruction across 50 increasingly challenging levels! Eliminate dangerous skeletons using your mastery of arrow physics and ricochet shots. You have unlimited arrows at your disposal, but strategy matters—aim carefully and plan your angles to avoid hitting yourself. Bounce arrows off walls, through gaps, and around obstacles to reach your bony targets. With each level presenting new layout challenges, you'll need sharp shooting skills and clever thinking to destroy every skeleton!",
+    "instructions": "Tap or click",
+    "url": "https://html5.gamemonetize.com/uhh1dsncjak3i9cadbj8tuyfu33tjg7l/",
+    "categoryId": "shooting",
+    "tags": "Action, Arcade, Boys, Shooting",
+    "thumb": "https://img.gamemonetize.com/uhh1dsncjak3i9cadbj8tuyfu33tjg7l/512x384.jpg",
+    "width": "1334",
+    "height": "750",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Aim and shoot arrows"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Aim and shoot arrows"
+      }
+    ]
+  },
+  {
+    "id": "43083",
+    "title": "Supermarket Dash",
+    "description": "Manage the busiest supermarket in town in this fast-paced shopping simulation! Help customers find exactly what they need by quickly gathering items from shelves and processing their purchases at checkout. Speed and efficiency are crucial as shoppers line up with their lists. Successfully serve each customer to collect cash and keep your supermarket running smoothly. With its charming 2D cartoon graphics and engaging time-management gameplay, Supermarket Dash delivers retail therapy at its finest. Can you handle the shopping rush?",
+    "instructions": "Tap or click",
+    "url": "https://html5.gamemonetize.com/vq21efise3o49rukv6g15qb74t51wjbu/",
+    "categoryId": "hypercasual",
+    "tags": "Fun, Girls, Hypercasual, Shopping",
+    "thumb": "https://img.gamemonetize.com/vq21efise3o49rukv6g15qb74t51wjbu/512x384.jpg",
+    "width": "800",
+    "height": "504",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Pick items and serve customers"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Pick items and serve customers"
+      }
+    ]
+  },
+  {
+    "id": "28752",
+    "title": "City Constructor Driver 3D - Fun & Run 3D Game",
+    "description": "Take the wheel of a heavy-duty construction truck in this immersive 3D simulation! Transport bricks across the bustling city, picking up materials from various locations and delivering them to construction sites. Watch in satisfaction as your deliveries automatically transform into magnificent buildings upon arrival. Speed up the construction process by tapping the screen for bonus productivity. With its charming cartoon graphics and engaging gameplay loop, City Constructor Driver 3D puts you in the driver's seat of urban development!",
+    "instructions": "Tap or click ",
+    "url": "https://html5.gamemonetize.com/4cldesnr7zobgiwqz9nfyiqdew4smtdn/",
+    "categoryId": "boys",
+    "tags": "3D, 3D Games, Boy, Boys, Car, city, Girl, H5, HTML5, Hypercasual, Kid, Kids",
+    "thumb": "https://img.gamemonetize.com/4cldesnr7zobgiwqz9nfyiqdew4smtdn/512x384.jpg",
+    "width": "1280",
+    "height": "720",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Drive truck and speed up construction"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Drive truck and speed up construction"
+      }
+    ]
+  },
+  {
+    "id": "75693",
+    "title": "Bubble Pet Game",
+    "description": "Welcome to a colorful world where adorable pets need your bubble-popping expertise! Match and shoot bubbles with careful aim to clear the board and rescue cute animals in this super fun puzzle adventure. Each level introduces new brain-teasing challenges, fun obstacles, and rewarding surprises that guarantee hours of entertainment. Whether you're a casual gamer, puzzle enthusiast, or pet lover, this delightful bubble shooter delivers bright visuals, relaxing gameplay, and endless charm. Help these precious pets and become the ultimate bubble master!",
+    "instructions": "- To click any button use mouse ",
+    "url": "https://html5.gamemonetize.com/g4gvh81z7v2ne8bziuh6xrwa43bb8sxd/",
+    "categoryId": "puzzles",
+    "tags": "2026 games, amazing, Animal, Bubble Shooter, Fun, Puzzle",
+    "thumb": "https://img.gamemonetize.com/g4gvh81z7v2ne8bziuh6xrwa43bb8sxd/512x384.jpg",
+    "width": "800",
+    "height": "600",
+    "gameControls": [
+      {
+        "key": "Mouse Click",
+        "action": "Aim and shoot bubbles"
+      },
+      {
+        "key": "Tap Screen",
+        "action": "Aim and shoot bubbles"
       }
     ]
   }
